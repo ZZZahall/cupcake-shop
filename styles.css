@@ -1,0 +1,14 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h1 {
+  color: blue;
+}
+
+.best {
+  color: blue;
+  font-style: oblique;
+  font-weight: bold;
+}
